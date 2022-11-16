@@ -5,3 +5,7 @@
 * 💫: I'm just someone passionate about the world of programming, and who wants to learn more about this immense area.
 * 💍: I'm just someone passionate about Javascript.
 * 🍽 eat(); 🛌 sleep(); 🖥 code(); 🔁 repeat();
+
+
+## Snake
+ ![Animação de cobra](https://github.com/Gabzin14/Gabzin14/blob/output/github-contribution-grid-snake.svg)
