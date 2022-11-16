@@ -7,5 +7,5 @@
 * 🍽 eat(); 🛌 sleep(); 🖥 code(); 🔁 repeat();
 
 
-## Snake
+## 🐍Snake
  ![Animação de cobra](https://github.com/Gabzin14/Gabzin14/blob/output/github-contribution-grid-snake.svg)
