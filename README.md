@@ -6,6 +6,8 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabzin14&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" /><br/>
 
   ![](https://github-readme-streak-stats.herokuapp.com/?user=Gabzin14&theme=dark&hide_border=true)<br/>
+  
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
  </div>
 
  <h1 align="center"> Hello World👋 </h1>
