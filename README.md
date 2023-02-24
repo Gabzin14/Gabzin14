@@ -20,9 +20,8 @@
 * 🍽 eat(); 🛌 sleep(); 🖥 code(); 🔁 repeat();
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gabzin14.kkj) 
-
 <a href="https://instagram.com/gabzin14.kkj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://discord.Gabzin#5772" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 
 ## Main skills:
 <div style="display: inline_block"><br>
