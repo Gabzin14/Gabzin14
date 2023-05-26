@@ -10,7 +10,7 @@
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
  </div>
 
- <h1 align="center"> Hello World👋 </h1>
+ <div> <h1 align="center"> Hello World👋 </h1>
  <h1 align="center"> What brings you here?🤔 </h1>
  
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
@@ -18,7 +18,7 @@
 * 💫: I'm just someone passionate about the world of programming, and who wants to learn more about this immense area.
 * 💍: I'm just someone passionate about Javascript.
 * 🍽 eat(); 🛌 sleep(); 🖥 code(); 🔁 repeat();
-
+</div>
 ## 🌐 Socials:
 <a href="https://instagram.com/gabzin14.kkj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gabriel-alves-207293226" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
