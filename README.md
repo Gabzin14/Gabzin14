@@ -21,7 +21,7 @@
 
 ## 🌐 Socials:
 <a href="https://instagram.com/gabzin14.kkj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://https://www.linkedin.com/in/gabriel-alves-207293226" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://https://www.linkedin.com/in/gabriel-alves-207293226a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ## Main skills:
 <div style="display: inline_block"><br>
